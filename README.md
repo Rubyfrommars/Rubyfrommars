@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rubyfrommars
 - 👀 I’m interested in EduTech,embroidery,watercolouring.
-- 🌱 I’m currently learning everything from sratch
-- 💞️ I’m looking to collaborate o
+- 🌱 I’m currently learning everything from sratch. Coding is somthing new for me.
 - 📫 How to reach me ...
 
 <!---
